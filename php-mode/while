@@ -1,5 +1,7 @@
+# -*- snippet -*-
 #contributor : Satoshi Nishimura <nishim314@gmail.com>
 #name : while (...) {...}
+#key : while
 #group : control structure
 # --
 while (${1:condition}) {

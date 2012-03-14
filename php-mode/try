@@ -1,5 +1,7 @@
+# -*- snippet -*-
 #contributor : Satoshi Nishimura <nishim314@gmail.com>
 #name : try { ... } catch ( ... ){ ... }
+#key : try
 #group : control structure
 # --
 try {

@@ -1,5 +1,7 @@
+# -*- snippet -*-
 #contributor : Satoshi Nishimura <nishim314@gmail.com>
 #name : f ...(...)
+#key : func
 #group : definitions
 # --
 function ${1:name}(${2:$args})

@@ -1,5 +1,7 @@
+# -*- snippet -*-
 #contributor : Satoshi Nishimura <nishim314@gmail.com>
-#name : class ... 
+#name : class ...
+#key : class
 #group : definitions
 # --
 class ${1:`(replace-regexp-in-string

@@ -1,5 +1,7 @@
+# -*- snippet -*-
 #contributor : Satoshi Nishimura <nishim314@gmail.com>
-#name : <?php /* ... */ class ...{...} 
+#name : <?php /* ... */ class ...{...}
+#key : <?php
 #group : definitions
 # --
 <?php

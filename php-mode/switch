@@ -1,5 +1,7 @@
+# -*- snippet -*-
 #contributor : Satoshi Nishimura <nishim314@gmail.com>
 #name : switch (...) {...}
+#key : switch
 #group : control structure
 # --
 switch (${1:true}) {
